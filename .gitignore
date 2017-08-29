@@ -1,1 +1,3 @@
 .idea
+cat >> .gitignore
+ignorethisfile.txt
