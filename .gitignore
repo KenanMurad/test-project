@@ -1,3 +1,4 @@
 .idea
 ignorethisfile.txt
- testfolder/
+html/*
+!html/fayl1.html
